@@ -71,21 +71,6 @@ Passionate about building scalable **web applications** and exploring **AI-power
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mdarfath239&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdarfath239/mdarfath239/main/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdarfath239/mdarfath239/main/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mdarfath239/mdarfath239/main/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-
-
----
-
 ## 🌐 Connect With Me
 - 📧 Email: **mdarfath239@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/arfath239)  
